@@ -8,6 +8,10 @@
 
 ## 플레이 영상
 [![플레이영상](Thumbnail.png)](https://youtu.be/cuBdoOrj3e4)
+
+## 소스코드 목록
+![[splatoon2_map.png]]
+
 ## 리소스 출처
 (본 레포지토리 미포함, 플레이 영상에서 확인 가능)  
 #### 2D·3D 리소스
