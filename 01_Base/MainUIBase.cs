@@ -5,7 +5,7 @@ namespace Splatoon2
 {
     /// <summary>
     /// 각 씬의 메인 UI 스크립트에서 상속받습니다. <br/>
-    /// (단, 씬 이동 시에 사라지는 UI 캔버스만 해당)
+    /// (단, 씬 이동 직전 숨겨지는 UI 캔버스만 해당)
     /// </summary>
     public class MainUIBase : MonoBehaviour
     {
