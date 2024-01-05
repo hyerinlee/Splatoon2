@@ -12,7 +12,6 @@ namespace Splatoon2
 
         public IEnumerator hideMainCanvasCrt;
         public Action onSceneChange;
-        public Action<ANIM_CONTROLLER> setAnimController;
 
         private bool isTitlePassed = false;
         private SCENE currentScene;
